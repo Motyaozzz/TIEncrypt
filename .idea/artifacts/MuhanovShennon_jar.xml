@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MuhanovShennon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MuhanovShennon_jar</output-path>
+    <root id="archive" name="MuhanovShennon.jar">
+      <element id="module-output" name="MuhanovShennon" />
+    </root>
+  </artifact>
+</component>
