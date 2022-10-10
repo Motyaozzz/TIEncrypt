@@ -5,7 +5,7 @@
 Для запуска программы нужно перейти в папку с ней и ввести в терминал (первая команда меняет кодировку, если нужно вводить на русском языке)
 
 >chcp 1251  
->java -jar .\out\artifacts s\MuhanovShennon_jar\MuhanovShennon.jar
+>java -jar .\out\artifacts\MuhanovShennon_jar\MuhanovShennon.jar
 
 Далее необходимо выбрать режим ввода данных
 
